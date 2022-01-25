@@ -9,6 +9,7 @@
   "dependencies": {
     "bcrypt": "^5.0.1",
     "bcryptjs": "^2.4.3",
+    "build": "^0.1.4",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.0.10",
     "request": "^2.88.2"
